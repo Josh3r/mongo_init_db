@@ -5,9 +5,9 @@ import paramiko
 import time
 
 client = boto3.client('ec2',
-aws_access_key_id="ASIAVALDSCK5WAQRYQL7",
-aws_secret_access_key="ZDMDtIp6lD5Fxd7nx+NcrgKtOZqkElgmCjU6qs0k",
-aws_session_token="FwoGZXIvYXdzEF0aDHk2SkQ8Das5CB0FBiLNASMu4QwddCyjyv1rJfjNgZP3NliwWF37PH/BlPyvHJN4CA5l/od2mNaa/leTBdH8SCoClfd4wqTQ3nnlx81YvpCk9sgFpat53CBhJMWTX5TFzMak5akihVvQ0hoaWTsumUzqzM/y3bTP1sy5d81OXxvnqkJ1nVUkmokonC04fQMkzW6DFDK6iSpEO93f0Cqy109OE9h8XDDrMUiOtsLYwLaK3O1XmxG1Y1Euy+gJo4rZ81CVAnli6o2A7CHQZsPSsWEElJ4AdhZX42YrjgYovcOo/gUyLUMqWFxwiOzxV1Ws5gR7uzLRI027rtDqSxQ+PXGSzFZRPxOyd/lsllawP89GOw==",
+aws_access_key_id="",
+aws_secret_access_key="",
+aws_session_token="",
 region_name="us-east-1")
 
 #create key
